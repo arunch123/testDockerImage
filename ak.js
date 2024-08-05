@@ -5,7 +5,7 @@ const akobj1 = {
     age : 34
 };
 const akobj2 = akobj1;
-akobj2.age = 21;
+akobj2.age = 24;
 
 console.log(`first: ` + akobj1);
 console.log(`second: ` + akobj2);
