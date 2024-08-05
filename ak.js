@@ -2,7 +2,7 @@
 const akobj1 = {
     firstName: 'arun',
     lastName : 'kumar',
-    age : 25
+    age : 35
 };
 const akobj2 = akobj1;
 akobj2.age = 21;
